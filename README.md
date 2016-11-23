@@ -19,12 +19,14 @@ You can run the demo app from the root of the project by typing `npm run demo.io
 This plugin makes most sense when used from XML, which is done like this:
 
 ```xml
+<Page xmlns:Keyframes="nativescript-keyframes">
   <Keyframes:KeyframesView
       class="keyframe"
       width="200"
       height="200"
       source="keyframes/logo.json">
   </Keyframes:KeyframesView>
+</Page>
 ```
 
 To make the image look transparent on Android currently,
