@@ -2,15 +2,15 @@
   "nativescript": {
     "id": "org.nativescript.demo",
     "tns-ios": {
-      "version": "2.3.0"
+      "version": "2.4.0"
     },
     "tns-android": {
-      "version": "2.3.0"
+      "version": "2.4.1"
     }
   },
   "dependencies": {
-    "nativescript-unit-test-runner": "^0.3.0",
     "nativescript-keyframes": "file:..",
+    "nativescript-unit-test-runner": "^0.3.0",
     "tns-core-modules": "^2.3.0"
   },
   "devDependencies": {

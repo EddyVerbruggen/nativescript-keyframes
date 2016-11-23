@@ -1,5 +1,20 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:Keyframes="nativescript-keyframes" loaded="pageLoaded">
   <StackLayout>
-    <Label text="{{ message }}" class="message" textWrap="true"/>
+    <Label text="Facebook Keyframes lib in {N}" class="message" textWrap="true"/>
+
+    <Keyframes:KeyframesView class="keyframe" width="200" height="200" source="keyframes/keyframes_logo.json"></Keyframes:KeyframesView>
+
+    <StackLayout orientation="horizontal" horizontalAlignment="center">
+      <Keyframes:KeyframesView class="keyframe" width="100" height="100" source="keyframes/keyframes_logo.json"></Keyframes:KeyframesView>
+      <Keyframes:KeyframesView class="keyframe" width="100" height="100" source="keyframes/keyframes_logo.json"></Keyframes:KeyframesView>
+    </StackLayout>
+
+    <StackLayout orientation="horizontal" horizontalAlignment="center">
+      <Keyframes:KeyframesView class="keyframe" width="50" height="50" source="keyframes/keyframes_logo.json"></Keyframes:KeyframesView>
+      <Keyframes:KeyframesView class="keyframe" width="50" height="50" source="keyframes/keyframes_logo.json"></Keyframes:KeyframesView>
+      <Keyframes:KeyframesView class="keyframe" width="50" height="50" source="keyframes/keyframes_logo.json"></Keyframes:KeyframesView>
+      <Keyframes:KeyframesView class="keyframe" width="50" height="50" source="keyframes/keyframes_logo.json"></Keyframes:KeyframesView>
+    </StackLayout>
+
   </StackLayout>
 </Page>

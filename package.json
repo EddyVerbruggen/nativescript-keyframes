@@ -1,7 +1,7 @@
 {
   "name": "nativescript-keyframes",
-  "version": "1.0.0",
-  "description": "Your awesome NativeScript plugin.",
+  "version": "0.0.1",
+  "description": "Easily use the Facebook Keyframes library in your NativeScript app.",
   "main": "keyframes.js",
   "typings": "index.d.ts",
   "nativescript": {
@@ -27,14 +27,20 @@
     "url": "https://github.com/EddyVerbruggen/nativescript-keyframes.git"
   },
   "keywords": [
+    "ecosystem:nativescript",
     "NativeScript",
     "JavaScript",
     "Android",
-    "iOS"
+    "iOS",
+    "Facebook Keyframes",
+    "Keyframes",
+    "Adobe After Effects",
+    "After Effects",
+    "Animation"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "youremail@yourdomain.com"
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
   },
   "bugs": {
     "url": "https://github.com/EddyVerbruggen/nativescript-keyframes/issues"
