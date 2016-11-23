@@ -1,13 +1,13 @@
 # NativeScript Facebook Keyframes plugin
--- a {N} wrapper for [this awesome animation library](https://github.com/facebookincubator/Keyframes)
+{N} wrapper for [this awesome animation library](https://github.com/facebookincubator/Keyframes)
 
 <img src="https://raw.githubusercontent.com/EddyVerbruggen/nativescript-keyframes/master/media/keyframes-logo.png" />
 
 ## Why use this?
 Good question, as NativeScript already has [outstanding CSS animation support](https://docs.nativescript.org/ui/animation-css.html)!
 
-Make sure you check that out as well, but if you or your designed is a sucker for __After Effects__
-to create crazily complex animations then this is the plugin for you.
+Make sure you check that out as well, but if you or your designer is a sucker for __After Effects__
+to create crazily complex (and beautiful) animations then this is the plugin for you.
 
 ## Installation
 From the command prompt go to your app's root folder and execute:
