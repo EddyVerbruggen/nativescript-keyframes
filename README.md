@@ -17,7 +17,7 @@ tns plugin add nativescript-keyframes
 ```
 
 ## Demo app
-Want to dive in quickly? Check out [the demo](demo). [Which looks like this (YouTube video)](https://www.youtube.com/watch?v=eKHW8gSNpQc). Otherwise, continue reading.
+Want to dive in quickly? Check out [the demo](demo). Which looks like [this (YouTube video)](https://www.youtube.com/watch?v=eKHW8gSNpQc). Otherwise, continue reading.
 
 You can run the demo app from the root of the project by typing `npm run demo.ios.device`.
 
