@@ -2,7 +2,7 @@
   "name": "nativescript-keyframes",
   "version": "1.0.0",
   "description": "Easily use the Facebook Keyframes library in your NativeScript app.",
-  "main": "keyframes.js",
+  "main": "keyframes",
   "typings": "index.d.ts",
   "nativescript": {
     "platforms": {
